@@ -1,0 +1,14 @@
+[theme]
+base = "dark"
+primaryColor = "#63a4ff"
+backgroundColor = "#0b1020"
+secondaryBackgroundColor = "#121933"
+textColor = "#eef3ff"
+redColor = "#ff5f78"
+orangeColor = "#f59e0b"
+yellowColor = "#f2c14e"
+blueColor = "#63a4ff"
+greenColor = "#1ec980"
+
+[client]
+showErrorDetails = "type"
